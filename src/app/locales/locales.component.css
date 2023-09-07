@@ -1,0 +1,8 @@
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 600px;
+    margin-top: 50px;
+    justify-content: space-around;
+}
